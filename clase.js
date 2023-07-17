@@ -9,6 +9,15 @@ b = c;
 console.log("Ahora A se llama " + a);
 console.log("Ahora B se llama " + b);
 
+var nombre="oscar";
+/*declarar*/
+//declarar
+var edad;
+edad
+//inicializar variable //
+edad= 30;
+
+edad 
 
 
 
